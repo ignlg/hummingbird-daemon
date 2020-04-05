@@ -1,5 +1,7 @@
 # hummingbird-daemon
 
+[![Build Status](https://travis-ci.org/ignlg/hummingbird-daemon.svg?branch=master)](https://travis-ci.org/ignlg/hummingbird-daemon) [![Build status](https://ci.appveyor.com/api/projects/status/r4xe4v6x7qeke2r8?svg=true)](https://ci.appveyor.com/project/ignlg/hummingbird-daemon)
+
 Launcher to daemonize AirVPN's Hummingbird OpenVPN client
 
 ## Installation
