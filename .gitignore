@@ -6,3 +6,4 @@
 **/*.rs.bk
 
 .history/
+.DS_Store
